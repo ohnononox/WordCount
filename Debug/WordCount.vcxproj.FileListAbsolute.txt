@@ -1,0 +1,2 @@
+D:\学习\软件工程\实践\WordCount\Debug\WordCount.exe
+D:\学习\软件工程\实践\WordCount\Debug\WordCount.pdb
